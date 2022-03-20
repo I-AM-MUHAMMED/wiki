@@ -3,7 +3,7 @@
 <a href="https://github.com/I-AM-MUHAMMED/wiki/blob/master/filter.md"><img src="https://img.shields.io/badge/filter-brightgreen?style=for-the-badge&logo=appveyor%22"/></a>
 
 
-<a href="https://github.com/I-AM-MUHAMMED/wiki/blob/master/welcome.md"><img src="https://img.shields.io/badge/greetings-important?style=for-the-badge&logo=appveyor%22"/></a>
+<a href="https://github.com/I-AM-MUHAMMED/wiki/blob/master/greetings.md"><img src="https://img.shields.io/badge/greetings-important?style=for-the-badge&logo=appveyor%22"/></a>
 
 
 <a href="https://github.com/I-AM-MUHAMMED/wiki/blob/master/vote.md"><img src="https://img.shields.io/badge/vote-yellow?style=for-the-badge&logo=appveyor%22"/></a>
